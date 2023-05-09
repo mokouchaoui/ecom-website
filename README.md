@@ -13,3 +13,20 @@ This is an e-commerce website built on Django version 4.2.1. It includes a store
 
 ## Usage
 
+Once the development server is running, you can access the website at `http://127.0.0.1:8000/`.
+
+### Store Page
+
+The store page displays a list of products available for purchase. You can click on a product to view its details, including its name, description, price, and image.
+
+### Cart Page
+
+The cart page displays the items that have been added to the cart. You can update the quantity of each item, remove items from the cart, and proceed to checkout.
+
+### Checkout Page
+
+The checkout page allows you to enter your billing and shipping information, select a shipping method, and review your order before submitting it.
+
+## Contributing
+
+If you would like to contribute to this project, please fork the repository and create a pull request.
